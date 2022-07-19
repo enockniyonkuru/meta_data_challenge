@@ -1,6 +1,5 @@
 # meta_data_challenge
 2022 Meta Data Challenge
-# deep_learing_projects
 
 
 ### TO RUN THIS CODE:
